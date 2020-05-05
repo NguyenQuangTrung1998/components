@@ -1,0 +1,27 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    width: 40%;
+}
+.radio{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.Text{
+    width: 70px;
+    font-size: 20px;
+    margin: 50px auto;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.Forgot{
+    margin: 50px auto;
+    width: 30% ;
+    display: flex;
+}
+.a1{
+    margin-left: 170px;
+}
